@@ -1,0 +1,4 @@
+deepchem==2.8.0
+rdkit==2023.9.5
+numpy==1.26.4
+scikit-learn==1.4.2
